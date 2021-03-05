@@ -1,4 +1,3 @@
-# Web adress: https://samusun.github.io/#/
-
-## A crypto calculator with historical prices
+## Check out my crypto calculator @ https://samusun.github.io/#/
+Here you can play around with historical crypto prices.
 Data collected from Coingecko.com
